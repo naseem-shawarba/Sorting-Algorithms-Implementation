@@ -1,6 +1,6 @@
-# Sorting Algorithm: Quick Sort
+# Sorting Algorithm: Merge Sort
 
-This folder contains an implementation of Quick Sort sorting algorithm in C programming language.
+This folder contains an implementation of Merge Sort sorting algorithm in C programming language.
 
 ## How to Compile
 
