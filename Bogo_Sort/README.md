@@ -11,4 +11,4 @@ To compile the program, run the following command:
 
 To run the compiled code, execute the following command:
 
-`./bogo_sort.c`
+`./bogo_sort`
