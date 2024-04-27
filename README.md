@@ -5,12 +5,16 @@ This repository contains various sorting algorithms implemented in C programming
 ## Algorithms Included
 
 - AVL Tree Sort
+- Bogo Sort
+- Bubble Sort
+- Cock Tail Sort
 - Count Sort
-- Insertion Sort
-- Quick Sort
-- Bubble-Sort   
 - Heap Sort
+- Insertion Sort
 - Merge Sort
+- Quick Sort
+- Radix Sort
+- Selection Sort
 
 ## How to Compile and Run
 
